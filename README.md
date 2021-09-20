@@ -19,7 +19,7 @@
 
 ## Screenshots
 
-<img src="">
+<img src="https://github.com/taniyagupta840/Bank-IFSC-Checker/blob/main/t1.PNG">
 
 
 
